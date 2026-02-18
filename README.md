@@ -1,0 +1,2 @@
+# Spokii-legal
+legal pages
